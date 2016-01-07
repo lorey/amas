@@ -5,6 +5,8 @@
 
 [Sindre Sorhus](https://github.com/sindresorhus) had the great idea to create a list of Amas. But since Amas on GitHub are becoming pretty popular, his list is becoming bigger and bigger. This makes it harder to separate the legends from the generic ones. That's why I forked the repo and removed all developers with less than 500 followers. As the other list grows, I will also keep mine up-to-date. Make sure to check [the complete list](https://github.com/sindresorhus/amas) once you've worked through this list.
 
+I've also added [a list of questions](questions.md) from these developers. So if you watch this repo, you'll get notified of new questions.
+
 #### Ask these people anything!
 
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Creator of Pageres, Chalk, TodoMVC, Yeoman.
